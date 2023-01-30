@@ -1,4 +1,4 @@
-namespace Ecommerce.Domain.Entities
+namespace Ecommerce.Core.Entities
 {
     public class Cliente : BaseEntity
     {
